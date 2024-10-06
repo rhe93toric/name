@@ -1,3 +1,3 @@
 @echo off
-echo test text
+echo new cool text
 pause
