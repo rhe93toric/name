@@ -1,3 +1,3 @@
 @echo off
-echo old not cool text
+echo final fixed text
 pause
