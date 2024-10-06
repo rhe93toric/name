@@ -1,3 +1,3 @@
 @echo off
-echo old not cool da text
+echo new super cool text
 pause
