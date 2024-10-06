@@ -1,3 +1,3 @@
 @echo off
-echo new cool text
+echo new super cool text
 pause
